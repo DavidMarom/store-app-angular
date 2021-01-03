@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -120,5 +121,8 @@
       }
     }
   },
-  "defaultProject": "store-app"
+  "defaultProject": "store-app",
+  "cli": {
+    "analytics": "9c9900ee-ccb7-4d9e-a212-53bff1669943"
+  }
 }
